@@ -29,8 +29,8 @@ if __name__ == "__main__":
     main()
 
 """
-                Message for Later :
-    Possible features to add on my Dice Roller Project :
+               
+    Possible features to add on Dice Roller Project :
 
         Allow the user to input their own roll values instead of generating them randomly
         Keep track of the user's roll history and display it
